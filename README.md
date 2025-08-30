@@ -234,7 +234,7 @@ problems_solved=self.fake.random_int(min=20, max=200),  # Custom problem range
 ## 📈 Screenshots pdf
 
 ### Student Eligibility Filter
-![Eligibility Filter](https://drive.google.com/file/d/1CybbWdTKnvE9s7oBcFBLKaUqHB_zQinq/view?usp=sharing)
+![Eligibility Filter](https://drive.google.com/file/d/1CgRJZiJ5l5ogqEK75v1uo0d7To9UG_FG/view?usp=drive_link)
 
 ### Analytics Dashboard
 ![Analytics Dashboard](https://drive.google.com/file/d/1bVFKpsNbBLrZg91genLmkZfzXbfGEj7R/view?usp=sharing)
@@ -307,4 +307,5 @@ This project is created for educational purposes as part of the AIML course curr
 **Built with ❤️ using Python and Streamlit**
 
 *Last Updated: July 2025*
+
 
